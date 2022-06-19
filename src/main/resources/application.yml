@@ -1,0 +1,11 @@
+# Servlet関連設定
+server:
+  port: 8081
+
+# アプリケーション独自設定
+
+workshop:
+  api:
+    call:
+      host: localhost
+      port: 8080
